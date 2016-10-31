@@ -1,0 +1,11 @@
+{
+    "appName": "BOILERPLATE",
+    "buildFolder": "build/",
+    "sourcesFolder": "src",
+    "proxy": {
+        "url": "",
+        "port": "",
+        "user": "",
+        "password": ""
+    }
+}
